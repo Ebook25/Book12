@@ -1,0 +1,11 @@
+#EBOOK
+TITLE=Beginner JavaScript
+AUTHOR=John Doe
+URL=https://raw.githubusercontent.com/username/repo/branch/books/js-beginner.pdf
+COVER=https://raw.githubusercontent.com/username/repo/branch/covers/js-beginner.jpg
+
+#EBOOK
+TITLE=HTML & CSS Basics
+AUTHOR=Jane Roe
+URL=https://raw.githubusercontent.com/username/repo/branch/books/html-css.pdf
+COVER=https://raw.githubusercontent.com/username/repo/branch/covers/html-css.jpg
